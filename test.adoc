@@ -1,0 +1,24 @@
+:doctype: book
+:toc: left
+:sectnums:
+:toc-title: 目次
+:chapter-label:
+:docname: test 
+:env-including_other_departments_specifications:
+:author: Nomo
+:revnumber: 1
+:revdata: 2018/11/14
+:icons: font
+//:pdf-style: style/public_style.yml
+:pdf-style: style/public_style2.yml
+:stylesdir: style/
+:stylesheet: asciidoctor-default.css
+
+= Test 
+
+== Test
+
+=== test
+
+.cafe
+image:images/P_20181010_144859.jpg[cafelatte]
